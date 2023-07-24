@@ -1,29 +1,33 @@
-## About Me 
-👋 Hey there! I'm Shavaine, a dedicated Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I harness the power of React.js as a core tool in my toolbox, enabling me to build dynamic user interfaces and deliver exceptional user experiences.
+# Welcome to My GitHub!
 
-🚀 As an enthusiastic learner, I thrive on the excitement of exploring new technologies and staying up to date with industry trends. With a deep understanding of React.js, I leverage its flexibility and component-based architecture to create engaging user interfaces. Alongside React.js, I have expertise in other front-end technologies like HTML, CSS, and JavaScript, allowing me to craft seamless and intuitive user experiences.
+## Who I Am
 
-💡 On the back-end, I specialize in Node.js and Express.js, building robust server-side solutions. I excel at designing efficient database schemas and have extensive experience working with various databases like MySQL, Firebase, and Supabase. Leveraging my expertise in these technologies, I ensure smooth data management and seamless integration with applications.
+Hello, I'm Shavaine Brown, a passionate developer who enjoys learning about new technologies and creating engaging experiences on the web. I believe in using the latest technologies to create innovative and efficient solutions for various projects. With a strong foundation in Full-Stack Web Developement and a keen eye for detail, I strive to deliver high-quality web applications that make a difference.
 
-🌐 Throughout my journey as a Full-Stack Developer, I've had the opportunity to work on diverse projects, collaborating with cross-functional teams to deliver high-quality results. I'm well-versed in agile methodologies, adaptable to changing project requirements, and constantly seeking opportunities to grow both personally and professionally.
+## My Technology Stack 🧰
 
-📚 When I'm not coding, you'll often find me immersing myself in the latest developments of front-end and back-end technologies. I stay up to date with industry trends, explore new libraries, and experiment with innovative approaches. Whether it's reading technical blogs, participating in online courses, or engaging with the developer community, I'm always seeking ways to expand my knowledge and stay at the forefront of the field.
+- **Typescript:** I am a firm believer in the power of Typescript. Its strong typing system and advanced tooling help me catch bugs early in the development process, resulting in more robust and maintainable code.
 
-👨‍💻 I'm always eager to connect with fellow developers, collaborate on exciting projects, and exchange insights. Feel free to reach out to me on GitHub, and let's embark on a journey of discovery and innovation together!"
+- **Next.js:** As my go-to framework, Next.js allows me to build scalable and performant web applications with ease. Its server-side rendering capabilities and developer-friendly features make it a joy to work with.
 
-## My Toolbox 🧰 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Flask
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- MySql
-- Firebase
-- SupaBase
+- **Tailwind CSS:** I love using Tailwind CSS for its utility-first approach to styling. With Tailwind, I can quickly create stunning, responsive interfaces without the need for complex CSS classes.
+
+- **Prisma:** When it comes to working with databases, Prisma is my top choice. Its intuitive ORM simplifies database interactions, allowing me to focus on building features and bringing my projects to life.
+
+- **PostgreSQL/SQLite:** Depending on the project's needs, I choose between PostgreSQL for its robustness, scalability, and feature-rich capabilities, or SQLite for lightweight projects or development environments.
+
+### Under The Hood:
+HTML - CSS - JavaScript - React.js - Node.js
+
+### Notable inclusions:
+C# - Python - Flask - Firebase - MongoDB
+
+## My Projects
+
+On my GitHub repository, you'll find a collection of personal projects that showcase my skills and expertise with these technologies. From small experiments to fully-fledged web applications, each project reflects my dedication to continuous learning and improvement.
+
+Thank you for visiting my GitHub About page, and I hope my projects inspire you in your web development journey. Happy coding! 🚀
+
 
 <!--
 **shavaine/shavaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
