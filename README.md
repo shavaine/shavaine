@@ -1,8 +1,8 @@
 # Welcome to My GitHub!
 
-## Who I Am
+## Hello, I'm Shavaine Brown
 
-Hello, I'm Shavaine Brown, a passionate developer who enjoys learning about new technologies and creating engaging experiences on the web. I believe in using the latest technologies to create innovative and efficient solutions for various projects. With a strong foundation in Full-Stack Web Developement and a keen eye for detail, I strive to deliver high-quality web applications that make a difference.
+A passionate developer who enjoys learning about new technologies and creating engaging experiences on the web. I believe in using the latest technologies to create innovative and efficient solutions for various projects. With a strong foundation in Full-Stack Web Developement and a keen eye for detail, I strive to deliver high-quality web applications that make a difference.
 
 ## My Technology Stack 🧰
 
