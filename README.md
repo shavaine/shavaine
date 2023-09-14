@@ -24,24 +24,10 @@ C# - Python - Flask - Firebase - MongoDB
 
 ## My Projects
 
-On my GitHub repository, you'll find a collection of personal projects that showcase my skills and expertise with these technologies. From small experiments to fully-fledged web applications, each project reflects my dedication to continuous learning and improvement.
+<h3>Most Notable project is <a href="https://github.com/shavaine/day-maker-v2" target="_blank">DayMaker</a> , a scheduling application that I believe showcases my current skillset.</h3> 
+
+You'll also find a collection of other personal projects that showcase my skills and expertise with these previously mentioned technologies. From small experiments to fully-fledged web applications, each project reflects my dedication to continuous learning and improvement.
 
 Thank you for visiting my GitHub About page, and I hope my projects inspire you in your web development journey. Happy coding! 🚀
 
-
-<!--
-**shavaine/shavaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
