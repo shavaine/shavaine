@@ -1,8 +1,14 @@
 # Welcome to My GitHub!
 
-A passionate developer who enjoys learning about new technologies and creating engaging experiences on the web. I believe in using the latest technologies to create innovative and efficient solutions for various projects. With a strong foundation in Web Developement and a keen eye for detail, I strive to deliver high-quality web applications that make a difference.
+A passionate developer who enjoys learning about new technologies and creating engaging experiences on the web. I believe in using the latest technologies to create innovative and efficient solutions for various projects. With a strong foundation in Software Developement and a keen eye for detail, I strive to deliver high-quality applications that make a difference.
+
+## To Note
+
+Currently doing a deep dive into C# and the .NET ecosystem
 
 ## My Technology Stack 🧰
+
+- **C#:** My programming language of choice. Its strong typing system and extensive standard library provide a solid foundation for building robust and maintainable applications. With C#, I can catch errors at compile-time, leading to more reliable code and smoother development workflows.
 
 - **Typescript:** I am a firm believer in the power of Typescript. Its strong typing system and advanced tooling help me catch bugs early in the development process, resulting in more robust and maintainable code.
 
@@ -15,10 +21,10 @@ A passionate developer who enjoys learning about new technologies and creating e
 - **PostgreSQL/SQLite:** Depending on the project's needs, I choose between PostgreSQL for its robustness, scalability, and feature-rich capabilities, or SQLite for lightweight projects or development environments.
 
 ### Under The Hood:
-HTML - CSS - JavaScript - React.js - Node.js
+.NET - JavaScript - React.js  - HTML - CSS  
 
 ### Notable inclusions:
-C# - Python - Flask - Firebase - MongoDB
+Python - Flask - Prisma - MongoDB - Node.js
 
 ## My Projects
 
