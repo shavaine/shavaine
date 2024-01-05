@@ -1,10 +1,6 @@
 # Welcome to My GitHub!
 
-A passionate developer who enjoys learning about new technologies and creating engaging experiences on the web. I believe in using the latest technologies to create innovative and efficient solutions for various projects. With a strong foundation in Software Developement and a keen eye for detail, I strive to deliver high-quality applications that make a difference.
-
-## To Note
-
-Currently doing a deep dive into C# and the .NET ecosystem
+A Full-Stack Web Developer / IT Support Specialist who enjoys learning about new technologies and creating engaging experiences on the web. I believe in using the latest technologies to create innovative and efficient solutions for various projects. With a strong foundation in Software Developement and experience in the Help Desk Role, I strive to deliver high-quality applications that make a difference.
 
 ## My Technology Stack 🧰
 
@@ -28,7 +24,8 @@ Python - Flask - Prisma - MongoDB - Node.js
 
 ## My Projects
 
-<h3>Most Notable project is <a href="https://github.com/shavaine/day-maker-v2" target="_blank">DayMaker</a> , a scheduling application that I believe showcases my current skillset.</h3> 
+<h3><a href="https://www.clearencysoftware.ca/" target="_blank">Clearency Software</a> - Company I created to manage my freelance work and host future SaaS products / software applications I create.</h3> 
+<h3><a href="https://github.com/shavaine/day-maker-v2" target="_blank">DayMaker</a> - Scheduling application for making routine schedules.</h3> 
 
 You'll also find a collection of other personal projects that showcase my skills and expertise with these previously mentioned technologies. From small experiments to fully-fledged web applications, each project reflects my dedication to continuous learning and improvement.
 
